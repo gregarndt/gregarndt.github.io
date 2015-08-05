@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Greg Arndt's Blog
+email:       arndt.greg@gmail.com
+author:      Greg Arndt
+description: "Small blog about random geekery"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://blog.gregarndt.com"
 
 # Google analytics
 google_analytics:
