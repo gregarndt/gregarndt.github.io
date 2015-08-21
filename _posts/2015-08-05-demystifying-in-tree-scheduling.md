@@ -53,7 +53,7 @@ encompassing all scopes used within those additional tasks.
 #### In-tree branch configurations (job_flags.yml)
 
 The in-tree scheduling for a given branch is specified in a job\_flags.yml located at
-`\<gecko\>/testing/taskcluster/tasks/branches/\<branch\>/job\_flags.yml`. This is what
+`<gecko>/testing/taskcluster/tasks/branches/<branch>/job_flags.yml`. This is what
 the mach target will use for determining what should be scheduled (along with some
 logic within the mach target itself).
 
