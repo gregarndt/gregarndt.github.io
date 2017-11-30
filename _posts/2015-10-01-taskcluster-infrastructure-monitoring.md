@@ -2,7 +2,6 @@
 layout: post
 title: Monitoring TaskCluster infrastructure
 summary:
-categories: taskcluster
 tags: [taskcluster]
 ---
 

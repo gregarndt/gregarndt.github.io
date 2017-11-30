@@ -2,7 +2,6 @@
 layout: post
 title:  Demystifying in-tree TaskCluster scheduling
 summary:
-categories: taskcluster
 tags: [taskcluster]
 ---
 

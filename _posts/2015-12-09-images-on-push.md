@@ -2,7 +2,6 @@
 layout: post
 title:  Build Images on Push
 summary: Building in-tree images on push can happen automatically.
-categories: taskcluster
 tags: [taskcluster]
 ---
 

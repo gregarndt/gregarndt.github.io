@@ -2,7 +2,6 @@
 layout: post
 title:  Birth of a new worker
 summary: A new cross platform TaskCluster worker is under development allowing multiple engine and plugin support.
-categories: taskcluster
 tags: [taskcluster]
 ---
 
