@@ -3,6 +3,7 @@ layout: post
 title: February Highlights
 summary: February might be shorter than other months, but it wasn't short on new things landing.
 categories: taskcluster
+tags: [taskcluster]
 ---
 
 February might be shorter than other months, but it wasn't short on new things landing.

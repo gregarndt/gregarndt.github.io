@@ -3,6 +3,7 @@ layout: post
 title:  Demystifying in-tree TaskCluster scheduling
 summary:
 categories: taskcluster
+tags: [taskcluster]
 ---
 
 Since earlier this year Firefox OS tasks have been defined
