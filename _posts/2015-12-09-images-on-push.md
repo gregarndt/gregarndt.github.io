@@ -2,7 +2,7 @@
 layout: post
 title:  Build Images on Push
 summary: Building in-tree images on push can happen automatically.
-categories: taskcluster
+tags: [taskcluster]
 ---
 
 When looking at a [docker task definition](https://queue.taskcluster.net/v1/task/AWx91r7eTKyY2YS0PofZ3Q)

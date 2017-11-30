@@ -2,7 +2,7 @@
 layout: post
 title: Monitoring TaskCluster infrastructure
 summary:
-categories: taskcluster
+tags: [taskcluster]
 ---
 
 Responding to incidents for TaskCluster has been a bit of good logging, helpful
